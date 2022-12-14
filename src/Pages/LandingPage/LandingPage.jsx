@@ -11,10 +11,14 @@ export  const LandingPage =()=>{
 
 
     return(
-        <div>
-            <h1>this is landing page</h1>
-            <Btn_Main callback={()=>{navigate("/signin")}} label = {"Sign In"} />
-            <Btn_Main callback={()=>{navigate("/signup")}} label = {"Sign Up"}  />
+        <div id='landing_page_container'>
+            <div id='landing_page_background'>
+                <div id='landing_page_btn_container'>
+                    <Btn_Main callback={()=>{navigate("/signin")}} label = {"Sign In"} />
+                    <Btn_Main callback={()=>{navigate("/signup")}} label = {"Sign Up"}  />
+                </div>
+            </div>
+            
         </div>
     )
 }
