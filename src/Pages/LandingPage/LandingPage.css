@@ -1,12 +1,32 @@
 #landing_page_background{
-    background-color:rgba(0, 180, 216, 1);
+   background-color:rgba(0, 180, 216, 1);
    background-image: url("./background.jpg");
    height: 500px;
    width:100%;
    background-size: cover;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+}
+#landing_page_tag_line_container{
+    margin-left:100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    float: left;
+    position: absolute;
+    font-family: 'Josefin Sans', cursive;
+    
+}
+#italic{
+    /*font-family: 'Silkscreen', cursive;*/
 }
 
 #landing_page_btn_container{
+    margin-top: 300px;
     display: flex;
     flex-direction: column;
+    width: 50%;
 }
+
