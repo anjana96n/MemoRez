@@ -1,0 +1,25 @@
+#signUpFullContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#signUpLeftContainer{
+width: 55%;
+padding: 20px;
+}
+
+#signUpForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.signUpInput{
+    margin: 5px  5px;
+    padding: 4px;
+    font-size: medium;
+}
+
+#btnSubmit{
+    width: 100px;
+}

@@ -15,12 +15,10 @@ export const SignInPage = ()=>{
           <form className='formContainer' action="#">
 
             <div className="row">
-                <label className='labels'>Email Address / Mobile Number</label>
               <input className = "inputField" type="text" placeholder="Email or Phone" required/>
             </div>
 
             <div className="row">
-            <label className='labels'>Password</label>
               <input className = "inputField" type="password" placeholder="Password" required/>
             </div>
             
