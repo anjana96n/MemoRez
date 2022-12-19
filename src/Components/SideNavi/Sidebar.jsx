@@ -4,6 +4,7 @@ import './SideNav.css';
 
 export default props => {
   return (
+    
     <Menu>
       <a className="menu-item" href="/">
         Photographers
