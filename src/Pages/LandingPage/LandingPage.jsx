@@ -14,7 +14,7 @@ export  const LandingPage =()=>{
         <div id='landing_page_container'>
             <div id='landing_page_background'>
                 <div id='landing_page_tag_line_container'>
-                    <h2>Find the perfect <i id='italic'>Photographer</i> for your event</h2>
+                    <h2 id = "landing_page_tag_line_container">Find the perfect <i id='italic'>Photographer</i> for your event</h2>
                 </div>
                 
                 <div id='landing_page_btn_container'>
