@@ -5,13 +5,17 @@
 }
 
 #signUpLeftContainer{
-width: 55%;
+width: 60%;
 padding: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
 }
 
 #signUpForm{
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 .signUpInput{
@@ -22,4 +26,12 @@ padding: 20px;
 
 #btnSubmit{
     width: 100px;
+}
+
+@media screen and (max-width: 639px) {
+
+    #signUpLeftContainer{
+        width: 90%;
+        }
+
 }
