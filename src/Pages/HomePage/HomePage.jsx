@@ -48,15 +48,15 @@ export const HomePage = ()=>{
       <CardMedia
         component="img"
         height="140"
-        image="https://www.spadestudio.lk/wp-content/uploads/2020/07/thejani-tharindu-wedding-highlights-610x448.jpg"
+        image="https://images.unsplash.com/photo-1604017011826-d3b4c23f8914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2VkZGluZyUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&w=1000&q=80"
         alt="Kandy"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Kasun
+          Dasun
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          I will cover your wedding and preshoot around Kandy
+          I will cover your event photography
         </Typography>
       </CardContent>
       <CardActions>
@@ -69,15 +69,15 @@ export const HomePage = ()=>{
       <CardMedia
         component="img"
         height="140"
-        image="https://www.spadestudio.lk/wp-content/uploads/2020/07/thejani-tharindu-wedding-highlights-610x448.jpg"
+        image="https://cdn0.weddingwire.in/article/9086/3_2/960/jpg/16809-creative-wedding-photography-avinash-dhoundhiyal-photography-lead-image.jpeg"
         alt="Kandy"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Kasun
+          Joshep
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          I will cover your wedding and preshoot around Kandy
+          I will cover your any event
         </Typography>
       </CardContent>
       <CardActions>
@@ -95,7 +95,7 @@ export const HomePage = ()=>{
       <CardMedia
         component="img"
         height="140"
-        image="https://banuphotography.com/wp-content/uploads/2021/06/mannar-wedding-77.jpg"
+        image="https://images.pexels.com/photos/949224/pexels-photo-949224.jpeg?cs=srgb&dl=pexels-dimitri-kuliuk-949224.jpg&fm=jpg"
         alt="Jaffna"
       />
       <CardContent>
