@@ -1,12 +1,13 @@
-.footer{
-    height: 40px;
-    width: 100%;
-    background-color: rgba(0, 180, 216, 1);
-    
+.footer {
+  position: fixed;
+  bottom: 0;
+  height: 40px;
+  margin-top: 10px;
+  width: 100%;
+  background-color: rgba(0, 180, 216, 1);
 }
 
-
-span{
-    float: right;
-    margin: 6px;
+span {
+  float: right;
+  margin: 6px;
 }
